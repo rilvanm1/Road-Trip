@@ -4,7 +4,7 @@ all desired cities exactly once. This trip planner also allows the user to speci
 order of two cities which they would like to visit on their itinerary. 
 
 ##MajorCities.txt file
-This a text file is used to specify the cities and their traveling distances.
+This is a text file used to specify the cities and their traveling distances.
 
 The	first	line	of	the	file	is	a	space-separated list	of	the	names	of	the	cities in	the	itinerary.		If	a	city’s	name	contains two	
 or	 more	 words,	words are concatenated	 to	 form	 the	 city	 name	 (e.g.	 New	 Orleans	 would	 be	 represented	 as	
